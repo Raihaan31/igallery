@@ -1,4 +1,4 @@
-![Screenshot 2025-05-12 105214 - Copy](https://github.com/user-attachments/assets/9115d95d-31ea-455c-9157-0e1069ef83e0)# Ex.08 Design of Interactive Image Gallery
+# Ex.08 Design of Interactive Image Gallery
 ## Date:
 
 ## AIM:
@@ -187,7 +187,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![Screenshot 2025-05-12 105151](https://github.com/user-attachments/assets/a1138cfb-a785-4711-8090-c5bf7ac4b614)
-
+![Screenshot 2025-05-12 105214 - Copy](https://github.com/user-attachments/assets/9115d95d-31ea-455c-9157-0e1069ef83e0)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
